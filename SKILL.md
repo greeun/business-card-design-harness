@@ -1,6 +1,7 @@
 ---
 name: business-card-design-harness
 description: Generate 20 upload-ready HTML business-card mockups (single-file, inline CSS, web fonts) spanning distinct layout archetypes, plus a one-page visual-companion gallery with toggleable bleed/trim/safe overlays for human review, sized to online 명함 print services (KR default 90×50mm trim + 2mm bleed + 3mm safe / 94×54mm working canvas; US 3.5×2in and EU 85×55mm presets). Runs as a Planner→Generator→Evaluator harness with anti-slop variety enforcement, spec-compliance probes, and a mandatory human visual-aesthetic checkpoint gate. Trigger phrases — KO "명함 디자인", "명함 시안", "명함 시안 20개", "명함 HTML 만들어줘", "온라인 명함 업로드용 시안", "비주얼 컴패니언 검토", "명함 갤러리 생성", "명함 디자인 하네스". EN "business card", "business card design", "card design", "business card mockups", "HTML business card", "name card design", "business card gallery", "design business cards for print".
+version: 1.0.0
 ---
 
 # Business Card Design Harness
